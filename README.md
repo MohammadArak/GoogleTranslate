@@ -11,10 +11,15 @@ See some examples :
 ?>
 ```
 # About
+
 [Mohammad Mahdi](https://github.com/MohamamdArak)
 
-[Web Site](https://elhost.online)
+See our translate bot in telegram :
+
+[Translaty](https://telegram.me/TranslatyBot)
+
 #
+
 Have any idea? Ask me about it in telegram :
 
 [Mohammad Mahdi](https://telegram.me/MohamamdArak)
