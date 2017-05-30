@@ -20,6 +20,6 @@ See our translate bot in telegram :
 
 #
 
-Have any idea? Ask me about it in telegram :
+Have any idea? Ask me about that in telegram :
 
 [Mohammad Mahdi](https://telegram.me/MohamamdArak)
