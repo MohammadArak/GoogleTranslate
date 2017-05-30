@@ -7,9 +7,11 @@ See some examples :
 <?php
   require 'GoogleTranslate.php';
   $gtr = new GoogleTranslate();
-  echo $gtr->translate('Test', 'en');
+  echo $gtr->translate('Test', 'es'); //Translate "Test" To Spanish
 ?>
 ```
+Result is "prueba"
+
 # About
 
 [Mohammad Mahdi](https://github.com/MohamamdArak)
