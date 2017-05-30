@@ -1,5 +1,7 @@
 <?php
 
+require 'GoogleTranslate.php';
+
 $text = $_GET['text'];
 $lang = $_GET['lang'];
 
@@ -14,10 +16,11 @@ if(!$text){
         'result'=>'Invalid Parametr Language'
     );
 }else{
+    $gtr = new GoogleTranslate();
     $array = array(
         'error'=>false,
-        'result'=>translate($text, $lang),
-        'lang'=>get_lang($lang)
+        'result'=>$gtr->translate($text, $lang),
+        'lang'=>$gtr->get_lang($lang)
     );
 }
 
